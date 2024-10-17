@@ -1,4 +1,4 @@
-# Barcode Generator
+# shopconna Barcode Generator
 
 ![Barcode Generator Logo](https://barcode-maker.com/apple-touch-icon.png)
 
